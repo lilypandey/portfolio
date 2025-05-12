@@ -1,0 +1,138 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lilypandey/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://lilypandey.vercel.app"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/ride.jpg",
+            "title": "Ride Sharing App",
+            "bodyText": "- A Ride Sharing backend made using **FastAPI**, using **Docker** to orchestrate services for authentication, driver tracking, ride matching, and trip management.\n - Optimized real-time driver selection using Redis for fast geospatial lookups and Kafka for decoupled communication, while ensuring data persistence and consistency with PostgreSQL across services.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lilypandey/Ride-Sharing-Backend"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "FastAPI",
+                "Redis",
+                "Kafka",
+                "Docker",
+                "Uvicorn",
+                "PostgreSQL"
+            ]
+        },
+        {
+            "image" : "images/projects/redis.png",
+            "title": "In-Memory Redis-Like Key-Value Store",
+            "bodyText": "- Built a **Redis-like in-memory** database from scratch in **C/C++**, leveraging **TCP sockets, hashtables, AVL trees**,  and a custom **TLV serialization protocol** for structured data handling.\n - Developed core features including a **non-blocking I/O** event loop, **sorted sets**, **TTL expiration** using heap-based timers, and **multithreaded** asynchronous task processing.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lilypandey/Redis"
+                }
+            ],
+            "tags" : [
+                "C",
+                "C++",
+                "Redis"
+            ]
+        },
+        {
+            "title": "Invisibility Cloak Web App",
+            "bodyText": "- Developed an “Invisibility Cloak” Web App that **captures live video**, detects a user-specified color range (HSV) via **automated calibration**, and replaces the cloak area with a pre-stored background in real time. \n - Optimized real-time video streaming performance by **40%** using **WebP compression** and **binary WebSockets** for **low-latency** video.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lilypandey/Invisibility-Cloak"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Flask",
+                "OpenCV",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Real-Time Log Monitoring System",
+            "bodyText": "- Designed and implemented a real-time log streaming solution using **Flask** and **Socket.IO**, enabling live updates for **multiple concurrent clients** without page reloads. \n - Optimized log file handling by developing a custom **tail-like algorithm** to efficiently retrieve the **last 10 lines from large files** (GB scale), avoiding redundant data transmission.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lilypandey/log-viewer"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Flask",
+                "HTML",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "GPT-Based Character-Level Language Model",
+            "bodyText": "- Developed a Transformer-based language model in **PyTorch**, implementing **self-attention**, **multi-head attention**, and **positional embeddings** for character-level text generation.\n - Optimized model training using **AdamW optimizer**, **dropout regularization**, and efficient loss estimation, achieving improved convergence and coherent text output.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lilypandey/GPT-based-Character-Level-Language-Model"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Pytorch"
+            ]
+        },
+        {
+            "title": "AI Bot - Ultimate Tic-Tac-Toe",
+            "bodyText": "- Developed an advanced AI using the **Minimax Algorithm** with **Alpha-Beta Pruning** for optimal decision-making, along with a *Heuristic Evaluation** function to enhance strategic play.\n - Designed **dynamic board management** to handle invalid moves, draws, and open moves efficiently, ensuring engaging Human vs. AI gameplay.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lilypandey/Ultimate-Tic-Tac-Toe"
+                }
+            ],
+            "tags" : [
+                "Python"
+            ]
+        },
+        {
+            "title": "Movie Search Engine",
+            "bodyText": "- Developed a **Flask**-based movie search app integrating the **OMDB API** with a **SQLite** backend, also displaying IMDB’s Top 250 Movies using **Selenium** for real-time updates.\n - Designed a **two-tier search architecture** with database indexing and API fallback, improving search performance and reducing response time.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lilypandey/Search-Engine-for-Movies"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Flask",
+                "HTML",
+                "CSS",
+                "Selenium"
+            ]
+        }
+    ]
+}

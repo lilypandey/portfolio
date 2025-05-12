@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/lily-pandey/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/lilypandey"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:panlily2002@gmail.com"
+        }
+    ]
+}

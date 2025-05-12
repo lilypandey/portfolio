@@ -1,0 +1,24 @@
+{
+    "experiences": [
+        {
+            "title": "System Engineer",
+            "subtitle": "Matter Motors Pvt. Ltd.",
+            "workType": "Full-time",
+            "workDescription": [
+                "Implemented OS flashing for the VIC system via OTA updates and ADB commands, ensuring seamless functionality and software stability.",
+                "Defined and documented key features for the Companion App, including Geofencing, Remote Lock/Unlock, and Buzzer capabilities, enhancing user experience and security while ensuring compliance with legal and system requirements.", 
+                "Developed and executed 300+ test cases for the VIC ecosystem, improving product stability through rigorous testing with Busmaster and P-CAN."
+            ],
+            "dateText": "06/2023 – 11/2023"
+        },
+        {
+            "title": "Product Development and Technology Intern",
+            "subtitle": "Matter Motors Pvt. Ltd.",
+            "workType": "Internship",
+            "workDescription": [
+                "Actively contributed to continuous RnD initiatives to enhance VIC ecosystem features for better reliability and conducted system testing, improving performance and usability."
+            ],
+            "dateText": "07/2022 – 12/2022"
+        }
+    ]
+}

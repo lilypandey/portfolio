@@ -1,0 +1,51 @@
+.vertical {
+    justify-content: center;
+}
+
+.vertical_alternating {
+    justify-content: center;
+}
+
+@media only screen and (max-width: 578px) {
+    div.vertical-item-row > div:nth-child(1) {
+        width: 20% !important;
+    }
+    div.vertical-item-row > div:nth-child(2) {
+        width: 65% !important;
+    }
+    div.vertical-item-row > div:nth-child(3) {
+        width: 15% !important;
+    }
+}
+
+/* Style all date labels */
+.timeline-main-wrapper .timeline-content .timeline-date-content {
+    background-color: #60a5fa; /* Light blue background */
+    color: black;              /* Black text */
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-weight: 500;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.timeline-item-title {
+    background-color: #60a5fa;  /* Light blue background */
+    color: black;               /* Black text */
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-weight: 500;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.timeline-item-title.rc-title {
+    background-color: #60a5fa;
+    color: black;
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-weight: 500;
+    display: inline-block;
+    font-size: 14px;
+}
+

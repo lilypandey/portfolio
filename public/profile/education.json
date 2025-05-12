@@ -1,0 +1,25 @@
+{
+    "education":[
+        {
+            "title": "Aug 2019 - May 2023",
+            "cardTitle": "B.E., Electronics and Instrumentation",
+            "cardSubtitle":"BITS Pilani, Goa",
+            
+            "icon" : {
+                "src": "images/education/bits.png"
+            }
+        },
+        {
+            "title": "May 2019",
+            "cardTitle": "High School",
+            "cardSubtitle":"Doon International School, Dehradun",
+            "cardDetailedText": "Marks - 94.4%"
+        },
+        {
+            "title": "June 2017",
+            "cardTitle": "10th Grade",
+            "cardSubtitle":"Doon International School, Dehradun",
+            "cardDetailedText": "Marks - 10 CGPA"
+        }
+    ]
+}

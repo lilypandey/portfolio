@@ -1,0 +1,91 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/c-plus-plus.svg",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/post.png",
+                    "title": "PostgreSQL"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/fastapi.png",
+                    "title": "FastAPI"
+                },
+                {
+                    "icon": "images/skills/flask.png",
+                    "title": "Flask"
+                },
+                {
+                    "icon": "images/skills/redis.png",
+                    "title": "Redis"
+                },
+                {
+                    "icon": "images/skills/kafka.png",
+                    "title": "Kafka"
+                },
+                {
+                    "icon": "images/skills/opencv.png",
+                    "title": "OpenCV"
+                },
+                {
+                    "icon": "images/skills/pytorch.png",
+                    "title": "PyTorch"
+                },
+                {
+                    "icon": "images/skills/selenium.jpg",
+                    "title": "Selenium"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/linux.jpg",
+                    "title": "Linux"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/github.png",
+                    "title": "GitHub"
+                },
+                {
+                    "icon": "images/skills/vscode.jpg",
+                    "title": "VsCode"
+                },
+                {
+                    "icon": "images/skills/jupyter.png",
+                    "title": "Jupyter Notebook"
+                }
+            ]
+    }
+]}
