@@ -1,9 +1,9 @@
-# Dev Portfolio  [![GitHub](https://img.shields.io/github/license/lilypandey/portfolio?color=blue)](https://github.com/lilypandey/portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=lilypandey.portfolio&color=blue)
+# Dev Portfolio  [![GitHub](https://img.shields.io/github/license/lilypandey/portfolio?color=blue)](https://github.com/lilypandey/portfolio/blob/main/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=lilypandey.portfolio&color=blue)
 
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/lilypandey/portfolio/blob/master/images/portfolio.gif" alt="Portfolio" />
+  <img src="https://github.com/lilypandey/portfolio/blob/main/images/portfolio.gif" alt="Portfolio" />
   <br>
 </h2>
 

@@ -7,11 +7,11 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/lilypandey/dev-portfolio"
+                    "href": "https://github.com/lilypandey/portfolio"
                 },
                 {
                     "text": "Live",
-                    "href": "https://lilypandey.vercel.app"
+                    "href": "https://portfolio-lily.vercel.app/"
                 }
             ],
             "tags" : [
