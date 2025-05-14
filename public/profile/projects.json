@@ -41,19 +41,21 @@
             ]
         },
         {
-            "image" : "images/projects/redis.png",
-            "title": "In-Memory Redis-Like Key-Value Store",
-            "bodyText": "- Built a **Redis-like in-memory** database from scratch in **C/C++**, leveraging **TCP sockets, hashtables, AVL trees**,  and a custom **TLV serialization protocol** for structured data handling.\n - Developed core features including a **non-blocking I/O** event loop, **sorted sets**, **TTL expiration** using heap-based timers, and **multithreaded** asynchronous task processing.",
+            "image" : "images/projects/url_shortener.png",
+            "title": "URL Shortener",
+            "bodyText": "- Built a **full-stack URL shortener** with **Java, Spring Boot**, and **MySQL**, using **REST APIs**, **Spring Security**, and **Spring Data JPA**.\n - Developed a responsive **React frontend** with **TailwindCSS** and **Material-UI**, integrated Axios and React Router, and containerized with **Docker**.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/lilypandey/Redis"
+                    "href": "https://github.com/lilypandey/URL-Shortener"
                 }
             ],
             "tags" : [
-                "C",
-                "C++",
-                "Redis"
+                "Java",
+                "Spring Boot",
+                "MySQL",
+                "Docker",
+                "React"
             ]
         },
         {

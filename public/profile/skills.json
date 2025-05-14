@@ -14,6 +14,10 @@
                     "title": "Python"
                 },
                 {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
                     "icon": "images/skills/html.png",
                     "title": "HTML"
                 },
@@ -29,6 +33,10 @@
         {
             "title": "Frameworks & Technologies",
             "items" : [
+                {
+                    "icon": "images/skills/spring.png",
+                    "title": "Spring Boot"
+                },
                 {
                     "icon": "images/skills/fastapi.png",
                     "title": "FastAPI"
@@ -77,6 +85,10 @@
                 {
                     "icon": "images/skills/github.png",
                     "title": "GitHub"
+                },
+                {
+                    "icon": "images/skills/intellij.png",
+                    "title": "IntelliJ"
                 },
                 {
                     "icon": "images/skills/vscode.jpg",
