@@ -26,6 +26,14 @@
                     "title": "CSS"
                 },
                 {
+                    "icon": "images/skills/redis.png",
+                    "title": "Redis"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                },
+                {
                     "icon": "images/skills/post.png",
                     "title": "PostgreSQL"
                 }
@@ -45,10 +53,7 @@
                     "icon": "images/skills/flask.png",
                     "title": "Flask"
                 },
-                {
-                    "icon": "images/skills/redis.png",
-                    "title": "Redis"
-                },
+                
                 {
                     "icon": "images/skills/kafka.png",
                     "title": "Kafka"
