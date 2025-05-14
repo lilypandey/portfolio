@@ -59,6 +59,7 @@
             ]
         },
         {
+            "image" : "images/projects/cloak.png",
             "title": "Invisibility Cloak Web App",
             "bodyText": "- Developed an “Invisibility Cloak” Web App that **captures live video**, detects a user-specified color range (HSV) via **automated calibration**, and replaces the cloak area with a pre-stored background in real time. \n - Optimized real-time video streaming performance by **40%** using **WebP compression** and **binary WebSockets** for **low-latency** video.",
             "links": [
@@ -77,6 +78,7 @@
             ]
         },
         {
+            "image" : "images/projects/log.jpg",
             "title": "Real-Time Log Monitoring System",
             "bodyText": "- Designed and implemented a real-time log streaming solution using **Flask** and **Socket.IO**, enabling live updates for **multiple concurrent clients** without page reloads. \n - Optimized log file handling by developing a custom **tail-like algorithm** to efficiently retrieve the **last 10 lines from large files** (GB scale), avoiding redundant data transmission.",
             "links": [
@@ -93,6 +95,7 @@
             ]
         },
         {
+            "image" : "images/projects/NeuralNetwork.png",
             "title": "GPT-Based Character-Level Language Model",
             "bodyText": "- Developed a Transformer-based language model in **PyTorch**, implementing **self-attention**, **multi-head attention**, and **positional embeddings** for character-level text generation.\n - Optimized model training using **AdamW optimizer**, **dropout regularization**, and efficient loss estimation, achieving improved convergence and coherent text output.",
             "links": [
@@ -107,6 +110,7 @@
             ]
         },
         {
+            "image" : "images/projects/tic.png",
             "title": "AI Bot - Ultimate Tic-Tac-Toe",
             "bodyText": "- Developed an advanced AI using the **Minimax Algorithm** with **Alpha-Beta Pruning** for optimal decision-making, along with a *Heuristic Evaluation** function to enhance strategic play.\n - Designed **dynamic board management** to handle invalid moves, draws, and open moves efficiently, ensuring engaging Human vs. AI gameplay.",
             "links": [
