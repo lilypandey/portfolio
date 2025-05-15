@@ -66,6 +66,10 @@
                 {
                     "text": "GitHub",
                     "href": "https://github.com/lilypandey/Invisibility-Cloak"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://invisibility-cloak-pjpz.onrender.com/"
                 }
             ],
             "tags" : [
@@ -139,6 +143,55 @@
                 "HTML",
                 "CSS",
                 "Selenium"
+            ]
+        },
+        {
+            "image" : "images/projects/browser.jpg",
+            "title": "Browser Control API (No Automation Frameworks)",
+            "bodyText": "- A Flask-based API to control Chrome and Firefox. Open URLs, clear cache/history, and close the browser, without using automation tools like Selenium or Puppeteer.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lilypandey/browser-automation"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Flask"
+            ]
+        },
+        {
+            "image" : "images/projects/mlp.png",
+            "title": "Bigram and MLP Models",
+            "bodyText": "- **Micrograd** - A pytorch like API.\n - **Bigram** Model.\n - **Multi Layer Perceptron** (MLP) Model.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lilypandey/neural-networks"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Pytorch"
+            ]
+        },
+        {
+            "image" : "images/projects/imdb.png",
+            "title": "IMDB's Top Movies Viewer",
+            "bodyText": "- A web app that **scrapes** a list of top movies from IMDB TOP 250 Movies page and displays a list of movies with title, year, and ratings, also allowing users to **search** and **filter** movies based on their title.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lilypandey/Imdb-Top-Movies-Viewer"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://discover-imdbs-top-movies.onrender.com/"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "BeautifulSoup"
             ]
         }
     ]
