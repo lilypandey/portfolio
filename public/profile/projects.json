@@ -114,19 +114,25 @@
             ]
         },
         {
-            "image" : "images/projects/tic.png",
-            "title": "AI Bot - Ultimate Tic-Tac-Toe",
-            "bodyText": "- Developed an advanced AI using the **Minimax Algorithm** with **Alpha-Beta Pruning** for optimal decision-making, along with a *Heuristic Evaluation** function to enhance strategic play.\n - Designed **dynamic board management** to handle invalid moves, draws, and open moves efficiently, ensuring engaging Human vs. AI gameplay.",
+            "image" : "images/projects/imdb.png",
+            "title": "IMDB's Top Movies Viewer",
+            "bodyText": "- A web app that **scrapes** a list of top movies from IMDB TOP 250 Movies page and displays a list of movies with title, year, and ratings, also allowing users to **search** and **filter** movies based on their title.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/lilypandey/Ultimate-Tic-Tac-Toe"
+                    "href": "https://github.com/lilypandey/Imdb-Top-Movies-Viewer"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://discover-imdbs-top-movies.onrender.com/"
                 }
             ],
             "tags" : [
-                "Python"
+                "Python",
+                "BeautifulSoup"
             ]
         },
+        
         {
             "image" : "images/projects/movie.jpeg",
             "title": "Movie Search Engine",
@@ -148,7 +154,7 @@
         {
             "image" : "images/projects/browser.jpg",
             "title": "Browser Control API (No Automation Frameworks)",
-            "bodyText": "- A Flask-based API to control Chrome and Firefox. Open URLs, clear cache/history, and close the browser, without using automation tools like Selenium or Puppeteer.",
+            "bodyText": "- A **Flask**-based API to control **Chrome** and **Firefox**. **Open URLs**, **clear cache/history**, and **close the browser**, without using automation tools like Selenium or Puppeteer.",
             "links": [
                 {
                     "text": "GitHub",
@@ -176,23 +182,19 @@
             ]
         },
         {
-            "image" : "images/projects/imdb.png",
-            "title": "IMDB's Top Movies Viewer",
-            "bodyText": "- A web app that **scrapes** a list of top movies from IMDB TOP 250 Movies page and displays a list of movies with title, year, and ratings, also allowing users to **search** and **filter** movies based on their title.",
+            "image" : "images/projects/tic.png",
+            "title": "AI Bot - Ultimate Tic-Tac-Toe",
+            "bodyText": "- Developed an advanced AI using the **Minimax Algorithm** with **Alpha-Beta Pruning** for optimal decision-making, along with a *Heuristic Evaluation** function to enhance strategic play.\n - Designed **dynamic board management** to handle invalid moves, draws, and open moves efficiently, ensuring engaging Human vs. AI gameplay.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/lilypandey/Imdb-Top-Movies-Viewer"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://discover-imdbs-top-movies.onrender.com/"
+                    "href": "https://github.com/lilypandey/Ultimate-Tic-Tac-Toe"
                 }
             ],
             "tags" : [
-                "Python",
-                "BeautifulSoup"
+                "Python"
             ]
         }
+        
     ]
 }
