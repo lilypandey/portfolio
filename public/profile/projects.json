@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/portfolio.png",
             "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "bodyText": "- A responsive, and fully customizable **portfolio** built with **React**.\n -  It features animation-enhanced UI, modular JSON-based content management, dynamic routing, and **dark mode** support.",
             "links": [
                 {
                     "text": "GitHub",
@@ -15,6 +15,8 @@
                 }
             ],
             "tags" : [
+                "HTML",
+                "CSS",
                 "React",
                 "Portfolio",
                 "JavaScript"
