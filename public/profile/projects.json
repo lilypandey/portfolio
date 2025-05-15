@@ -99,7 +99,7 @@
             ]
         },
         {
-            "image" : "images/projects/gpt.jpg",
+            "image" : "images/projects/NeuralNetwork.png",
             "title": "GPT-Based Character-Level Language Model",
             "bodyText": "- Developed a Transformer-based language model in **PyTorch**, implementing **self-attention**, **multi-head attention**, and **positional embeddings** for character-level text generation.\n - Optimized model training using **AdamW optimizer**, **dropout regularization**, and efficient loss estimation, achieving improved convergence and coherent text output.",
             "links": [
