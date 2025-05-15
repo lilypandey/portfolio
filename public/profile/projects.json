@@ -184,7 +184,7 @@
         {
             "image" : "images/projects/tic.png",
             "title": "AI Bot - Ultimate Tic-Tac-Toe",
-            "bodyText": "- Developed an advanced AI using the **Minimax Algorithm** with **Alpha-Beta Pruning** for optimal decision-making, along with a *Heuristic Evaluation** function to enhance strategic play.\n - Designed **dynamic board management** to handle invalid moves, draws, and open moves efficiently, ensuring engaging Human vs. AI gameplay.",
+            "bodyText": "- Developed an advanced AI using the **Minimax Algorithm** with **Alpha-Beta Pruning** for optimal decision-making, along with a **Heuristic Evaluation** function to enhance strategic play.\n - Designed **dynamic board management** to handle invalid moves, draws, and open moves efficiently, ensuring engaging Human vs. AI gameplay.",
             "links": [
                 {
                     "text": "GitHub",
