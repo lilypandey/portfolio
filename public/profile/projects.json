@@ -23,26 +23,6 @@
             ]
         },
         {
-            "image" : "images/projects/ride.jpg",
-            "title": "Ride Sharing App",
-            "bodyText": "- A Ride Sharing backend made using **FastAPI**, using **Docker** to orchestrate services for authentication, driver tracking, ride matching, and trip management.\n - Optimized real-time driver selection using Redis for fast geospatial lookups and Kafka for decoupled communication, while ensuring data persistence and consistency with PostgreSQL across services.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/lilypandey/Ride-Sharing-Backend"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "FastAPI",
-                "Redis",
-                "Kafka",
-                "Docker",
-                "Uvicorn",
-                "PostgreSQL"
-            ]
-        },
-        {
             "image" : "images/projects/url_shortener.png",
             "title": "URL Shortener",
             "bodyText": "- Built a **full-stack URL shortener** with **Java, Spring Boot**, and **MySQL**, using **REST APIs**, **Spring Security**, and **Spring Data JPA**.\n - Developed a responsive **React frontend** with **TailwindCSS** and **Material-UI**, integrated Axios and React Router, and containerized with **Docker**.",
