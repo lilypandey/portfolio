@@ -64,7 +64,7 @@
             ]
         },
         {
-            "image" : "images/projects/log_viewer.jpeg",
+            "image" : "images/projects/log.jpg",
             "title": "Real-Time Log Monitoring System",
             "bodyText": "- Designed and implemented a real-time log streaming solution using **Flask** and **Socket.IO**, enabling live updates for **multiple concurrent clients** without page reloads. \n - Optimized log file handling by developing a custom **tail-like algorithm** to efficiently retrieve the **last 10 lines from large files** (GB scale), avoiding redundant data transmission.",
             "links": [
