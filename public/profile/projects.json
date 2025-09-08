@@ -64,22 +64,24 @@
             ]
         },
         {
-            "image" : "images/projects/log.jpg",
-            "title": "Real-Time Log Monitoring System",
-            "bodyText": "- Designed and implemented a real-time log streaming solution using **Flask** and **Socket.IO**, enabling live updates for **multiple concurrent clients** without page reloads. \n - Optimized log file handling by developing a custom **tail-like algorithm** to efficiently retrieve the **last 10 lines from large files** (GB scale), avoiding redundant data transmission.",
+            "image" : "images/projects/movie.jpeg",
+            "title": "Movie Search Engine",
+            "bodyText": "- Developed a **Flask**-based movie search app integrating the **OMDB API** with a **SQLite** backend, also displaying IMDB’s Top 250 Movies using **Selenium** for real-time updates.\n - Designed a **two-tier search architecture** with database indexing and API fallback, improving search performance and reducing response time.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/lilypandey/log-viewer"
+                    "href": "https://github.com/lilypandey/Search-Engine-for-Movies"
                 }
             ],
             "tags" : [
                 "Python",
                 "Flask",
                 "HTML",
-                "JavaScript"
+                "CSS",
+                "Selenium"
             ]
         },
+        
         {
             "image" : "images/projects/NeuralNetwork.png",
             "title": "GPT-Based Character-Level Language Model",
@@ -116,21 +118,20 @@
         },
         
         {
-            "image" : "images/projects/movie.jpeg",
-            "title": "Movie Search Engine",
-            "bodyText": "- Developed a **Flask**-based movie search app integrating the **OMDB API** with a **SQLite** backend, also displaying IMDB’s Top 250 Movies using **Selenium** for real-time updates.\n - Designed a **two-tier search architecture** with database indexing and API fallback, improving search performance and reducing response time.",
+            "image" : "images/projects/log.jpg",
+            "title": "Real-Time Log Monitoring System",
+            "bodyText": "- Designed and implemented a real-time log streaming solution using **Flask** and **Socket.IO**, enabling live updates for **multiple concurrent clients** without page reloads. \n - Optimized log file handling by developing a custom **tail-like algorithm** to efficiently retrieve the **last 10 lines from large files** (GB scale), avoiding redundant data transmission.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/lilypandey/Search-Engine-for-Movies"
+                    "href": "https://github.com/lilypandey/log-viewer"
                 }
             ],
             "tags" : [
                 "Python",
                 "Flask",
                 "HTML",
-                "CSS",
-                "Selenium"
+                "JavaScript"
             ]
         },
         {
