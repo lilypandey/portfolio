@@ -23,7 +23,7 @@
             ]
         },
         {
-            "image" : "images/projects/url_shortener.png",
+            "image" : "images/projects/url.png",
             "title": "URL Shortener",
             "bodyText": "- Built a **full-stack URL shortener** with **Java, Spring Boot**, and **MySQL**, using **REST APIs**, **Spring Security**, and **Spring Data JPA**.\n - Developed a responsive **React frontend** with **TailwindCSS** and **Material-UI**, integrated Axios and React Router, and containerized with **Docker**.",
             "links": [
@@ -37,6 +37,42 @@
                 "Spring Boot",
                 "MySQL",
                 "Docker",
+                "React"
+            ]
+        },
+        {
+            "image" : "images/projects/health.png",
+            "title": "Healthcare Microservices Platform (Cloud-Native Architecture)",
+            "bodyText": "- Built a modular microservices architecture with Patient, Billing, Analytics, and Auth services communicating via gRPC and Kafka-based event streams integrated with JWT-secured APIs behind an API Gateway validated through JUnit and RestAssured integration tests.\n - Leveraged LocalStack to emulate AWS infrastructure (ECS, RDS, MSK), enabling automated testing, container orchestration, and CI/CD validation for production-ready deployment.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lilypandey/Healthcare-Microservices-Platform"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Spring Boot",
+                "PostgreSQL",
+                "Docker",
+                "grPC",
+                "Kafka",
+                "AWS"
+            ]
+        },
+        {
+            "image" : "images/projects/choose.png",
+            "title": "Choose Your Own Adventure AI",
+            "bodyText": "- Built a FastAPI backend leveraging LangChain and OpenRouter API to generate dynamic, branching AI stories with asynchronous task handling and SQLAlchemy-based structured storage.\n - Developed a React frontend for real-time story creation, interactive navigation, and job tracking via Axios API integration, enhancing user experience and workflow efficiency.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lilypandey/Choose-your-own-Adventure"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "FastAPI",
                 "React"
             ]
         },
