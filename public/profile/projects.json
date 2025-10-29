@@ -41,6 +41,22 @@
             ]
         },
         {
+            "image" : "images/projects/choose.png",
+            "title": "Choose Your Own Adventure AI",
+            "bodyText": "- Built a FastAPI backend leveraging LangChain and OpenRouter API to generate dynamic, branching AI stories with asynchronous task handling and SQLAlchemy-based structured storage.\n - Developed a React frontend for real-time story creation, interactive navigation, and job tracking via Axios API integration, enhancing user experience and workflow efficiency.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lilypandey/Choose-your-own-Adventure"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "FastAPI",
+                "React"
+            ]
+        },
+        {
             "image" : "images/projects/health.png",
             "title": "Healthcare Microservices Platform (Cloud-Native Architecture)",
             "bodyText": "- Built a modular microservices architecture with Patient, Billing, Analytics, and Auth services communicating via gRPC and Kafka-based event streams integrated with JWT-secured APIs behind an API Gateway validated through JUnit and RestAssured integration tests.\n - Leveraged LocalStack to emulate AWS infrastructure (ECS, RDS, MSK), enabling automated testing, container orchestration, and CI/CD validation for production-ready deployment.",
@@ -60,22 +76,26 @@
                 "AWS"
             ]
         },
+
         {
-            "image" : "images/projects/choose.png",
-            "title": "Choose Your Own Adventure AI",
-            "bodyText": "- Built a FastAPI backend leveraging LangChain and OpenRouter API to generate dynamic, branching AI stories with asynchronous task handling and SQLAlchemy-based structured storage.\n - Developed a React frontend for real-time story creation, interactive navigation, and job tracking via Axios API integration, enhancing user experience and workflow efficiency.",
+            "image" : "images/projects/movie.jpeg",
+            "title": "Movie Search Engine",
+            "bodyText": "- Developed a **Flask**-based movie search app integrating the **OMDB API** with a **SQLite** backend, also displaying IMDB’s Top 250 Movies using **Selenium** for real-time updates.\n - Designed a **two-tier search architecture** with database indexing and API fallback, improving search performance and reducing response time.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/lilypandey/Choose-your-own-Adventure"
+                    "href": "https://github.com/lilypandey/Search-Engine-for-Movies"
                 }
             ],
             "tags" : [
                 "Python",
-                "FastAPI",
-                "React"
+                "Flask",
+                "HTML",
+                "CSS",
+                "Selenium"
             ]
         },
+        
         {
             "image" : "images/projects/ride.jpg",
             "title": " Ride Hailing Microservices",
@@ -93,25 +113,6 @@
                 "Docker",
                 "Kafka",
                 "Redis"
-            ]
-        },
-        
-        {
-            "image" : "images/projects/movie.jpeg",
-            "title": "Movie Search Engine",
-            "bodyText": "- Developed a **Flask**-based movie search app integrating the **OMDB API** with a **SQLite** backend, also displaying IMDB’s Top 250 Movies using **Selenium** for real-time updates.\n - Designed a **two-tier search architecture** with database indexing and API fallback, improving search performance and reducing response time.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/lilypandey/Search-Engine-for-Movies"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Flask",
-                "HTML",
-                "CSS",
-                "Selenium"
             ]
         },
 
